@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: normal;
+    line-height: 2em;
+    font-size: 13px;
+}
+
+/* nav css styles */
+
+
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 2px;
+    margin: 5px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#cebuano {
+    color: blue;
+}
+
+#nav {
+    float: right;
+    margin-top: 15px;
+    margin-right: 35px;
+}
+
+#signin {
+    background-color: #4285F4;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 3px;
+}
+
+#appslogo {
+    margin-top: 100px;
+    background-image: url(images/appslogo.png);
+    width: 30px;
+    height: 30px;
+}
+
+.nav-box {
+
+}
+
+/* main css styles */
+
