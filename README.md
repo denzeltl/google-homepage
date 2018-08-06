@@ -1,9 +1,13 @@
-From The Odin Project's Curriculum (https://github.com/denzeltl/google-homepage.git)
+# Google Homepage Clone
+
+My take on The Odin Project's [Build a Google Homepage Clone](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
 
-Assignment
-
-Build the Google.com homepage. (the simple one with just a search box).
+[View Here](https://denzeltl.github.io/google-homepage/)
 
 
-*COMPLETED* (approx ~8hrs)
+**Completed on:** *08/06/2018*
+
+## Instructions
+
+- Build the [Google](https://www.google.com/) homepage.
